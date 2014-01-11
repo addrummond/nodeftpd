@@ -1,3 +1,5 @@
+**Development has now moved to https://github.com/sstur/nodeftpd . Please submit pull requests there.**
+
 # nodeftpd - a simple FTP server written in node.js
 
 
